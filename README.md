@@ -1,2 +1,2 @@
 # tic-toc
-react demo
+A single page with react, not create a react app
